@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="info_puzzle"> The 15 puzzle, also known as the sliding puzzle, is a classic brain teaser that has entertained people for generations.  Here is how to play:</string>
+    <string name="lala">         A tray holds 15 numbered tiles in a 4x4 grid, with one empty space.
+- Slide the tiles around to arrange them in numerical order, from 1 to 15, with the empty space helping you move them.
+- It is a simple concept, but it can be surprisingly challenging!
+</string>
+    <string name="benefits">Benefits of Playing: Sharpens your mind Improves hand-eye coordination Boosts patience and persistence Provides a fun mental break</string>
+
+</resources>
